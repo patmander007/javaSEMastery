@@ -2,7 +2,7 @@
 <html>
 <title>Hello from Git</title>
 <body>
-<h1>This is a landing page</h1>
+<h1>This is the landing page</h1>
 	
 </body>
 
