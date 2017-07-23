@@ -1,0 +1,1 @@
+//use in all the pages
